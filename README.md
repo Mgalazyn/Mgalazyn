@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mgalazyn
-- 👀 I’m interested in Python, Machine learning
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python, Data Science, Big Data, Blockchain technology 
+- 🌱 I’m currently learning Python, SQL and trying to understand frameworks for web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me m.galazynn@gmail.com
 
