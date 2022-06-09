@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mgalazyn
-- 👀 I’m interested in Python, Data Science, Big Data, Blockchain technology 
-- 🌱 I’m currently learning Python, SQL and trying to understand frameworks for web development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, Django, Flask, Blockchain technology 
+- 🌱 I’m currently learning Python, Django
+- 💞️ I’m looking to collaborate on opensource projects to develop my web development skills in django, flask. 
 - 📫 How to reach me m.galazynn@gmail.com
 
 <!---
