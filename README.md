@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mgalazyn
-- 👀 I’m interested in Python, Data Analysis, Blockchain technology, Web Development
+- 👀 I’m interested in Python, Web Development, Django, Blockchain
 - 🌱 I’m currently QA Engineer, but looking for a job as a Dev.
 - 💞️ I’m looking to collaborate on opensource projects to develop my web development skills in django. 
 - 📫 How to reach me m.galazynn@gmail.com
